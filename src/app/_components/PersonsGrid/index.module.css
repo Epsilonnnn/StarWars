@@ -1,0 +1,10 @@
+.picture {
+	display: block;
+	max-height: 400px;
+	width: auto;
+	aspect-ratio: 1/2;
+}
+
+.dataTitle {
+	font-weight: bold;
+}
